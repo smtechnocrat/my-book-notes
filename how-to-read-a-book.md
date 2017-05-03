@@ -1,6 +1,6 @@
 > Reading well is a skill, one that most people have not developed.
 
-####Levels of reading:
+#### Levels of reading:
 
 1. Elementary reading. Able to read. Think of this as transparency - no longer have to devote attention to the act of reading, can focus on the content.
 
@@ -14,16 +14,16 @@
 
 6. Inspectional reading. Skimming/pre-reading. Main aim is to find out whether it’s worth reading the book in detail. Title page, preface, table of contents, index, blurb. Skim chapters that seem pivotal to the argument. Skim random pages of the book. Read the last few pages / conclusion / epilogue. Read entire book through quickly, without stopping to check references or to think carefully about arguments.
 
-####Hold these questions in mind:
+#### Hold these questions in mind:
 - What is the book about as a whole?
 - What is being said in detail, and how?
 - Is the book true, in whole or part?
 - What of it?
 
-####Note-taking. 
+#### Note-taking. 
 Structural (outline), synoptical/conceptual (themes and ideas), dialectical (state of knowledge/debate in the subject overall).
 
-####Analytical reading.
+#### Analytical reading.
 
 Figure out what kind of book it is (eg pop science vs textbook, accepted vs contentious, entertainment vs education, practical vs theoretical).
 Summarize the point of the book in a couple of sentences. Note down the outline of the book.
@@ -35,7 +35,7 @@ Summarize the point of the book in a couple of sentences. Note down the outline 
 - Find the solutions that are being proposed.
 - Must be able to do the above before declaring agreement/disagreement/suspension of judgement. Disagreement could be because the author is uninformed, misinformed or illogical in some argument/evidence. Carefully distinguish between argument/evidence and personal opinion in your response.
 
-####Synoptical reading.
+#### Synoptical reading.
 - Find possibly relevant texts (using advisors, reading lists, bibliographies).
 - Quickly inspect each text on the list to find which are worth reading.
 - Find the core points of each text.
